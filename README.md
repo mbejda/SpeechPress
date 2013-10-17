@@ -1,0 +1,4 @@
+SpeechPress
+===========
+
+Speaker WordPress Theme
